@@ -1,0 +1,17 @@
+{
+  "name": "mit-hacking-arts-oct-2014",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firmata": "^0.3.3",
+    "keypress": "^0.2.1",
+    "node-osc": "^0.2.1",
+    "optimist": "^0.6.1"
+  }
+}
